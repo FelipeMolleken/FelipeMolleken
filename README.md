@@ -8,7 +8,7 @@
   <p>
     •Desenvolvedor front-end buscando pela minha primeira oportunidade <br>
     •Os cursos que atualmente me guiam nessa jornada são os da OneBitCode, ProgramadorBR, Rocketseat e Curso em Vídeo<br>
-    •Sou estudante de Administração 6/8
+    •Estudante de Administração 6/8
   </p>
  
 </div>
