@@ -15,8 +15,8 @@
 
 <div align="center">
   <a href="https://github.com/FelipeMolleken">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FelipeMolleken&count_private=true&include_all_commits=true&show_icons=true&theme=algolia&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeMolleken&theme=algolia&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipemolleken&count_private=true&include_all_commits=true&show_icons=true&theme=algolia&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipemolleken&theme=algolia&hide_border=false&&layout=compact"/>
   </a>
 </div><br>
 <h2 align="center">Tech Stack</h2>
